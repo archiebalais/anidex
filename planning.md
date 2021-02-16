@@ -27,3 +27,9 @@ The API I am using is [Jikan](https://jikan.moe/)
 
 ## TECHNOLOGIES & FRAMEWORKS USED
 - HTML5, CSS, Node.js, Express.js, Bootstrap
+
+## Wireframes
+
+![1](images/home.png)
+![2](images/register.png)
+![3](images/description.png)
