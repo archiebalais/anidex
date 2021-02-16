@@ -1,8 +1,8 @@
-# AniDex
+# anidex
 
 ## ABOUT:
 
-AniDex is a anime and manga social cataloging application. The site provides itsusers with a list-like system to organize anime and manga.
+anidex is a anime and manga social cataloging application. The site provides itsusers with a list-like system to organize anime and manga.
 
 The API I am using is [Jikan](https://jikan.moe/)
 
