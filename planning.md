@@ -17,7 +17,8 @@ The API I am using is [Jikan](https://jikan.moe/)
 ### Logged In
 - As a user, I want to be able to search thousands of anime and manga.
 - As a user, I want to click on a specific anime and read a description of the movie.
-- As a user, I want to be able to create an account, and be able to save animes in a personal watchlist, and favorites list.
+- As a user, I want to be able to create an account, and be able to save animes in a personal watch list, and favorites list.
+- As a user, I can remove content from lists.
 
 
 ### Post Stretch Goals
